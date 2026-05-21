@@ -309,3 +309,5 @@ For issues, questions, or suggestions:
 - [N8N Documentation](https://docs.n8n.io/)
 - [Figma Design](https://www.figma.com/design/ZOyLTdOtJKVZuZddhs7WHv/Access-N8N-Cloud-App)
   
+## Contributing
+Thanks for checking out this project — to contribute, open an issue describing the change, then submit a PR with tests where applicable. See `CONTRIBUTING.md` for more.
