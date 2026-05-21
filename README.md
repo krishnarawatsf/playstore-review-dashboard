@@ -1,3 +1,9 @@
+[![CI](https://github.com/krishnarawatsf/playstore-review-dashboard/actions/workflows/nodejs.yml/badge.svg)](https://github.com/krishnarawatsf/playstore-review-dashboard/actions)
+[![License](https://img.shields.io/github/license/krishnarawatsf/playstore-review-dashboard.svg)](https://github.com/krishnarawatsf/playstore-review-dashboard/blob/main/LICENSE)
+[![GitHub release](https://img.shields.io/github/v/release/krishnarawatsf/playstore-review-dashboard.svg)](https://github.com/krishnarawatsf/playstore-review-dashboard/releases)
+[![codecov](https://codecov.io/gh/krishnarawatsf/playstore-review-dashboard/branch/main/graph/badge.svg)](https://codecov.io/gh/krishnarawatsf/playstore-review-dashboard)
+[![Dependabot status](https://img.shields.io/github/dependabot/krishnarawatsf/playstore-review-dashboard.svg)](https://github.com/krishnarawatsf/playstore-review-dashboard/network/alerts)
+
 
 # Play Store Review Analyzer Dashboard
 
